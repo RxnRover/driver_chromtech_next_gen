@@ -1,12 +1,17 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="20008000">
 	<Property Name="Instrument Driver" Type="Str">True</Property>
+	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.Project.Description" Type="Str">This project is used by developers to edit API and example files for LabVIEW Plug and Play instrument drivers.</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="CCSymbols" Type="Str">OS,Win;CPU,x86;</Property>
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="ChromTech MX-Class Drivers.lvlib" Type="Library" URL="/&lt;instrlib&gt;/ChromTech MX-Class Pump/ChromTech MX-Class Drivers.lvlib"/>
+		<Item Name="ChromTech MX-Class Drivers.lvlib" Type="Library" URL="../ChromTech MX-Class Drivers.lvlib"/>
+		<Item Name="LICENSE.txt" Type="Document" URL="../LICENSE.txt"/>
+		<Item Name="README.md" Type="Document" URL="../README.md"/>
+		<Item Name="driver_chromtech_next_gen.vipb" Type="Document" URL="../driver_chromtech_next_gen.vipb"/>
+		<Item Name="driver_chromtech_next_gen.vipc" Type="Document" URL="../driver_chromtech_next_gen.vipc"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="System Directory Type.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/sysdir.llb/System Directory Type.ctl"/>
