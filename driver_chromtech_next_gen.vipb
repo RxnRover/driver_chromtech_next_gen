@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-03-19 06:42:33" Modified_Date="2025-03-19 06:46:44" Creator="zachc" Comments="" ID="28546dac8d6dd322a69d39e98e03aa34">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-03-19 06:42:33" Modified_Date="2025-07-01 22:46:19" Creator="zachc" Comments="" ID="69c44ee6fd1a9f741dc47780ff53654e">
   <Library_General_Settings>
     <Package_File_Name>Rxn_Rover_lib_ChromTech_Next_Gen_Driver</Package_File_Name>
-    <Library_Version>1.0.0.2</Library_Version>
+    <Library_Version>1.0.0.3</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\vipm_package_builds</Library_Output_Folder>
@@ -243,7 +243,7 @@
         <Path>Public</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B1F7AA41036A58C5028386E6782D4796</GUID>
+      <GUID>CB98247B1DF58F71979E10A8C62EF90B</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -278,7 +278,7 @@
         <Path/>
         <VI_Title/>
       </Items_Data>
-      <GUID>283FCBB7F9AC1B234DB39E04F3BF5963</GUID>
+      <GUID>36197809ED80CA30D4AAD8E05305023C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -425,7 +425,7 @@
         <Path/>
         <VI_Title/>
       </Items_Data>
-      <GUID>B172FCE027B6DFEDD6A3F00054B9B24B</GUID>
+      <GUID>606745A9A4E57323E926E5D2D2123CFF</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -628,7 +628,7 @@
         <Path/>
         <VI_Title/>
       </Items_Data>
-      <GUID>22736B5C712C6C290DBFB38FF261B1FD</GUID>
+      <GUID>252E4667E9C36CC57E7CCCE2A6A06E91</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -677,7 +677,7 @@
         <Path/>
         <VI_Title/>
       </Items_Data>
-      <GUID>CD447CA508F11D774C151424541BAB68</GUID>
+      <GUID>5FE2D3C02AE9E8E86AC02DF697F45307</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -726,7 +726,7 @@
         <Path/>
         <VI_Title/>
       </Items_Data>
-      <GUID>71D4D6B61A4016AEFB33758BD0259C7B</GUID>
+      <GUID>528BD81FFA87D3C7A73F1322E9D3BB51</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -929,7 +929,7 @@
         <Path/>
         <VI_Title/>
       </Items_Data>
-      <GUID>0F8A413C1AF13D838571F6F401DCFE9F</GUID>
+      <GUID>08F38B7DC4166CB845C56970317698AC</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
