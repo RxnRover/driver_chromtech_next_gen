@@ -7,7 +7,7 @@
 		<Property Name="CCSymbols" Type="Str">OS,Win;CPU,x86;</Property>
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="ChromTech MX-Class Drivers.lvlib" Type="Library" URL="../ChromTech MX-Class Drivers.lvlib"/>
+		<Item Name="driver_chromtech_next_gen.lvlib" Type="Library" URL="../driver_chromtech_next_gen.lvlib"/>
 		<Item Name="LICENSE.txt" Type="Document" URL="../LICENSE.txt"/>
 		<Item Name="README.md" Type="Document" URL="../README.md"/>
 		<Item Name="driver_chromtech_next_gen.vipb" Type="Document" URL="../driver_chromtech_next_gen.vipb"/>
